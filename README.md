@@ -1,1 +1,1 @@
-# Predicting the risk of post covid cardiac diseases
+# Predicting the risk of post Covid Cardiovascular diseases
